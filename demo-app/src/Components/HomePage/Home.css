@@ -1,0 +1,21 @@
+.home-page-container{
+    background-image: url('/public/Assests/Images/flowers.jpg');
+    height: 100vh;
+    
+}
+.content{
+    max-width: 550px;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+    transform: translate(30px,200px);
+}
+.title{
+    font-size: 90px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: 700;
+}
+.description{
+    font-size: 18px;
+    font-style: italic;
+}

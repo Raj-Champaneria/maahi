@@ -1,0 +1,22 @@
+.contact-desc{
+    max-width: 500px;
+    text-align: center;
+}
+.contact-title{
+    font-size: 70px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+}
+.contact-description{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+.contact-form{
+    background-color: rgb(241, 237, 240);
+    border-radius: 5px;
+    width: 500px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    /* margin-top: 50px; */
+    height: 520px;
+    overflow: auto;
+}
